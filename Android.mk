@@ -9,7 +9,7 @@ LOCAL_SRC_FILES := $(call all-java-files-under, src)
 
 LOCAL_JAVA_LIBRARIES := framework
 
-LOCAL_OVERRIDES_PACKAGES := DSPManager
+LOCAL_OVERRIDES_PACKAGES := MusicFX
 
 LOCAL_PACKAGE_NAME := AudioFX
 
